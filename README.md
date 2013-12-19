@@ -4,7 +4,7 @@
 
 ##Summary
 
-Good code is clean, organized, and follows a set of grammatical and syntactic conventions.
+Good code is clean and organized. It follows a set of grammatical and syntactical conventions.
 
 Every programmer has their own preferred way of writing code, but the best programmers will utilize (and perhaps even contribute to) the accepted standard for a given language, framework, or [DSL](http://martinfowler.com/bliki/DomainSpecificLanguage.html).
 
@@ -16,9 +16,9 @@ You can rewrite the program any way you desire, so long as you don't break the d
 
 ## Learning Goals
 
-- Cleaning up poorly formatted code
-- Organizing code for consistency and readability
-- Recognizing incorrect conventions and fixing them without breaking the interface
+- Clean up poorly formatted code.
+- Organize code for consistency and readability.
+- Recognize incorrect conventions and fixing them without breaking the interface.
 
 ## Objectives
 
