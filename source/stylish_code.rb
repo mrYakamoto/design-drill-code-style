@@ -27,7 +27,7 @@ end
 
 game = Guessing_game.new(10)
 
-# This following should print out a whole bunch of "true"
+# This following should print out a whole bunch lines of "true"
 puts game.guess(5)  == :low
 puts game.guess(15) == :high
 puts game.solved?   == false
