@@ -2,6 +2,10 @@
 
 ##Learning Competencies
 
+* Refactor poorly formatted code.
+* Organize code for consistency and readability.
+* Recognize incorrect conventions and fix them without breaking the interface.
+
 ##Summary
 
 Good code is clean and organized. It follows a set of grammatical and syntactical conventions.
@@ -14,23 +18,17 @@ The example code in this challenge is extremely messy. Using the conventions def
 
 You can rewrite the program any way you desire, so long as you don't break the driver code (i.e. if you run the program, it should print all `true`).
 
-## Learning Goals
+##Releases
 
-- Clean up poorly formatted code.
-- Organize code for consistency and readability.
-- Recognize incorrect conventions and fixing them without breaking the interface.
-
-## Objectives
-
-### Implement style consistency
+###Release 0 : Implement style consistency
 
 Clean up the code in the program using the conventions outlined in [@bbatsov](https://github.com/bbatsov)'s [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide).
 
 Make sure that the code still works! You are just adding a fresh layer of paint to the walls, not tearing them down.
 
-##Releases
-###Release 0
 
-##Optimize Your Learning
+<!-- ##Optimize Your Learning -->
 
 ##Resources
+
+* [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
