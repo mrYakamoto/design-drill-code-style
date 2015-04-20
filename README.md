@@ -16,7 +16,7 @@ There are plenty of style guides for Ruby. Any piece of software (open source or
 
 The example code in this challenge is extremely messy. Using the conventions defined in this [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide), clean up the code. In particular, make sure to read the sections on [Naming](https://github.com/bbatsov/ruby-style-guide#naming), [Comments](https://github.com/bbatsov/ruby-style-guide#comments), and [Source Code Layout](https://github.com/bbatsov/ruby-style-guide#source-code-layout).
 
-You can rewrite the program any way you desire, so long as you don't break the driver code (i.e. if you run the program, it should print all `true`).
+You'll find some tests of this stylish code in the source directory. Run the tests now to see that everything is passing. You can rewrite the program any way you desire, so long as you don't break the tests.
 
 ##Releases
 
@@ -25,9 +25,6 @@ You can rewrite the program any way you desire, so long as you don't break the d
 Clean up the code in the program using the conventions outlined in [@bbatsov](https://github.com/bbatsov)'s [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide).
 
 Make sure that the code still works! You are just adding a fresh layer of paint to the walls, not tearing them down.
-
-
-<!-- ##Optimize Your Learning -->
 
 ##Resources
 
