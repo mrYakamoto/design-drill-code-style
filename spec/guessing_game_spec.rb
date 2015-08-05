@@ -1,4 +1,4 @@
-require_relative('stylish_code')
+require_relative('../guessing_game')
 
 describe Guessing_game do
   let(:game) { Guessing_game.new(10) }
