@@ -19,6 +19,5 @@ We are provided with some code in the file `guessing_game.rb`.  The code is test
 As we make changes, we need to ensure that the tests still pass.  We can make any changes necessary, so long as we don't break the tests.  We are just adding a fresh layer of paint to the walls, not tearing them down.
 
 
-##Resources
-
-* [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
+## Conclusion
+During our time at Dev Bootcamp, we should always strive to write readable, maintainable code.  Doing so entails following style conventions:  two-space indentation, whitespace around operators, naming, etc.  As we move forward, let's continue to apply this Ruby style guide to our code.
