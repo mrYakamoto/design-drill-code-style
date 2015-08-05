@@ -8,17 +8,16 @@ Whether it's open source or proprietary, any piece of software should use a styl
 In this challenge, we'll practice refactoring code to match a given style guide.
 
 
-##Releases
-
-###Release 0 : Implement style consistency
-The example code in this challenge is extremely messy. Using the conventions defined in this [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide), clean up the code. In particular, make sure to read the sections on [Naming](https://github.com/bbatsov/ruby-style-guide#naming), [Comments](https://github.com/bbatsov/ruby-style-guide#comments), and [Source Code Layout](https://github.com/bbatsov/ruby-style-guide#source-code-layout).
-
-You'll find some tests of this stylish code in the source directory. Run the tests now to see that everything is passing. You can rewrite the program any way you desire, so long as you don't break the tests.
+## Releases
+### Pre-release: Read the Style Guide
+Before we begin to refactor our code, let's first read through the style guide that we'll be expected to follow:  [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide).  In particular, make sure to read the sections on [naming](https://github.com/bbatsov/ruby-style-guide#naming), [comments](https://github.com/bbatsov/ruby-style-guide#comments), and [source code layout](https://github.com/bbatsov/ruby-style-guide#source-code-layout).
 
 
-Clean up the code in the program using the conventions outlined in [@bbatsov](https://github.com/bbatsov)'s [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide).
+### Release 0: Implement Style Consistency
+We are provided with some code in the file `guessing_game.rb`.  The code is tested and working (see file `spec/guessing_game_spec.rb`)—run the tests to confirm that they pass.  The code for the guessing game is extremely messy, and our task is to clean up this code by following the conventions defined in the style guide we read through.
 
-Make sure that the code still works! You are just adding a fresh layer of paint to the walls, not tearing them down.
+As we make changes, we need to ensure that the tests still pass.  We can make any changes necessary, so long as we don't break the tests.  We are just adding a fresh layer of paint to the walls, not tearing them down.
+
 
 ##Resources
 
