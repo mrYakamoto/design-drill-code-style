@@ -25,7 +25,7 @@ describe Guessing_game do
   end
 
   context 'with a number greater than 100' do
-    it 'should throw raise an error' do
+    it 'should raise an error' do
       expect { Guessing_game.new(200)}
         .to raise_exception(RuntimeError, "Answer must be between 1 and 100")
     end
